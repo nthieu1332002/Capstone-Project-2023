@@ -1,4 +1,4 @@
-import { configureStore, getDefaultMiddleware } from "@reduxjs/toolkit";
+import { configureStore } from "@reduxjs/toolkit";
 // import contractSlice from "./contract/contractSlice";
 // import residentSlice from "./resident/residentSlice";
 // import serviceSlice from "./service/serviceSlice";
